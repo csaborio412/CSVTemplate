@@ -1,7 +1,8 @@
 # Carlos Saborio-Villalta
 
 # About Me
-[description] 
+
+Health insurance professional completing his Masters in Public Policy and Management at Heinz College. 
 
 # Learning Objecties
 
