@@ -12,7 +12,7 @@ Health insurance professional completing his Masters in Public Policy and Manage
 
 The data set for this week's assignment is from the Organization for Economic Co-operation and Development (OECD) titled 'General government debt' which  represents the general government debt-to-GDP ratio for select countries from 1995 to 2018.   
 
-Of the three visualizations my preferred is the OECD web-generated bar chart for 2015. It is clean, easy to read, and the most user friendly to create. The only additional insights the RAWGraphs provided was the annual series data where we could track the ratio progression year-by-year. 
+Of the four visualizations my preferred is the Tableau heat map. It is clean, easy to read, and the second most user friendly to create. Unforturately it did render properly on the GitHub site.   
 
 The streamgraph nicely captured the time series data. You could easily look at a single year and determine the country's ranking because they were stacked and the thickness allowed you to tell the ratio was for that particular country was in that particular year. I did not play much with the colors. I potentially could have modified the colors by the countyr's region like we did in Chapter 2 of Work Charts. This would not have added an additional layer of analysis and might have been confusing if several countries from the same region ended up next to each other when they were stacked.  
 
