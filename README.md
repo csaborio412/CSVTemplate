@@ -14,11 +14,11 @@ The data set for this week's assignment is from the Organization for Economic Co
 
 Of the four visualizations my preferred is the Tableau heat map. It is clean, easy to read, and the second most user friendly to create. Unforturately it did render properly on the GitHub site.   
 
-The streamgraph nicely captured the time series data. You could easily look at a single year and determine the country's ranking because they were stacked and the thickness allowed you to tell the ratio was for that particular country was in that particular year. I did not play much with the colors. I potentially could have modified the colors by the countyr's region like we did in Chapter 2 of Work Charts. This would not have added an additional layer of analysis and might have been confusing if several countries from the same region ended up next to each other when they were stacked.  
+The streamgraph nicely captured the time series data. You could easily look at a single year and determine the country's ranking because they were stacked and the thickness allowed you to tell what the ratio was for that particular country. I did not play much with the colors. I potentially could have modified the colors by the country's region like we did in Chapter 2 of Work Charts. This would not have added an additional layer of analysis and might have been confusing if several countries from the same region ended up next to each other when they were stacked.  
 
 The Beeswarm was probably the least effective graph. Likely because we did not use colors to distinguisth the countries and the dots are so spread apart it is hard to gather the heirarchy of a single or all countries for a single year.   
 
-Overall, I find RawGraphs to great potential for more complex datasets, but has too many variables to feel proficient using the interface at this time.  
+Overall, I find RawGraphs to have great potential for more complex datasets, but has too many customizable variables to feel proficient using the interface at this time.  
 
 #### Part I: OECD Web-Based Visualization Tool
 
