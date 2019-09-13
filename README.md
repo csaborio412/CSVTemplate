@@ -42,4 +42,4 @@ Streamgraph
 
 #### Part III: Tableau
 
-<https://prod-useast-a.online.tableau.com/t/carlosvillalta/views/Tableau_OECD/GovernmentDebttoGDPRatioOECD?:origin=card_share_link&:embed=n>
+<script type='text/javascript' src='https://prod-useast-a.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1263px; height: 506px;'><object class='tableauViz' width='1263' height='506' style='display:none;'><param name='host_url' value='https%3A%2F%2Fprod-useast-a.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;carlosvillalta' /><param name='name' value='Tableau_OECD&#47;GovernmentDebttoGDPRatioOECD' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='origin' value='card_share_link' /><param name='showAppBanner' value='false' /><param name='filter' value='iframeSizedToWindow=true' /></object></div>
