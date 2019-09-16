@@ -47,8 +47,8 @@ Streamgraph
 
 ### Assignment 3
 
-Bad Visualization: "People Age 55 and Over Account for Over Half of Total Health Spending" (https://www.healthsystemtracker.org/chart-collection/health-expenditures-vary-across-population/)
+Bad Visualization: ["People Age 55 and Over Account for Over Half of Total Health Spending"] (https://www.healthsystemtracker.org/chart-collection/health-expenditures-vary-across-population/)
 
 <https://img.datawrapper.de/FqdJk/full.png>
 
-Data Source
+
