@@ -64,7 +64,7 @@ Streamgraph
 
 Graphic 
 
-<https://csaborio412.github.io/Saborio-Villalta_94870_StudentPortfolio/Images/AgeMedicalSpend_Graphic>
+![Text](https://csaborio412.github.io/Saborio-Villalta_94870_StudentPortfolio/Images/AgeMedicalSpend_Graphic.png)
 
 Tableau 
 
