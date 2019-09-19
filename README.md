@@ -47,9 +47,11 @@ Streamgraph
 
 ### Assignment 3
 
-#### Part 1: Select Visualization: [People Age 55 and Over Account for Over Half of Total Health Spending](https://www.healthsystemtracker.org/chart-collection/health-expenditures-vary-across-population/)
+#### Part 1: Select Visualization [People Age 55 and Over Account for Over Half of Total Health Spending](https://www.healthsystemtracker.org/chart-collection/health-expenditures-vary-across-population/)
 
 ![this is text](https://img.datawrapper.de/FqdJk/full.png)
+
+#### Part 3: Wireframe
 
 Graphic 
 
@@ -59,17 +61,27 @@ Tableau
 
 <script type='text/javascript' src='https://prod-useast-a.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1251px; height: 506px;'><object class='tableauViz' width='1251' height='506' style='display:none;'><param name='host_url' value='https%3A%2F%2Fprod-useast-a.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;carlosvillalta' /><param name='name' value='MedicalAgeSpend&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /><param name='filter' value='iframeSizedToWindow=true' /></object></div>
 
-#### Part 2: Critique
-
-
-#### Part 3: Wireframe 
-
 
 #### Part 4: Test 
 
+I sent my wireframe graphics to 3 friends. Here is a breakdown of their feedback: 
+
+Friend #1: Preferred the bar chart. Wants to see the distribution of medical spend for this age group. 
+
+Friend #2: Preferred the wireframe with pictures.  
+
+Friend #3: Preferred the bar chart. Wants to see more age group population data.  
 
 #### Part 5: Solution 
 
+[People Age 55 and Over Account for Over Half of Total Health Spending](https://www.healthsystemtracker.org/chart-collection/health-expenditures-vary-across-population/)
 
+![this is text](https://img.datawrapper.de/FqdJk/full.png)
+
+I chose this graphic because it seemed to presented too much information without showing what the author wants you to know. 
+
+I chose the visualization with the photos because it succintly presents the information I want the reader to know without presenting any additonal extraneous information. Most readers eye is drawn to pictures and faces. This visualization would grab the readers attention and tell them what I want them to know. 
+
+![People Age 55 and Over Account for Over Half of Total U.S. Medical Spend](https://csaborio412.github.io/Saborio-Villalta_94870_StudentPortfolio/Images/AgeMedicalSpend_Graphic.png)
 
 
