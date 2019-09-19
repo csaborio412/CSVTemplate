@@ -76,7 +76,7 @@ Friend #3: Preferred the bar chart. Wants to see more age group population data.
 
 #### Part 5: Solution 
 
-I chose the visualization with the photos because it succintly presents the information I want the reader to know without presenting any additonal extraneous information. Most readers eye is drawn to pictures and faces. This visualization would grab the readers attention and tell them what I want them to know. 
+I chose the visualization with the photos because it succintly presents the information I want the reader to know without presenting any additonal extraneous information. Readers eyes are drawn to pictures and faces. This visualization would grab the readers attention and tell them what I want them to know. 
 
 ![People Age 55 and Over Account for Over Half of Total U.S. Medical Spend](https://csaborio412.github.io/Saborio-Villalta_94870_StudentPortfolio/Images/AgeMedicalSpend_Graphic_Final.png)
 
