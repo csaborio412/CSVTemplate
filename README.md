@@ -51,6 +51,8 @@ Streamgraph
 
 ![this is text](https://img.datawrapper.de/FqdJk/full.png)
 
+I chose this graphic because it presented too much information without showing what the author wants you to know. Working in healthcare I am always innundated by data clutter on PPT slides to the brim and not enough insightful, concise analysis. Wishing data analysts learned how to edit and tell a story. 
+
 #### Part 3: Wireframe
 
 Graphic 
@@ -74,14 +76,8 @@ Friend #3: Preferred the bar chart. Wants to see more age group population data.
 
 #### Part 5: Solution 
 
-[People Age 55 and Over Account for Over Half of Total Health Spending](https://www.healthsystemtracker.org/chart-collection/health-expenditures-vary-across-population/)
-
-![this is text](https://img.datawrapper.de/FqdJk/full.png)
-
-I chose this graphic because it seemed to presented too much information without showing what the author wants you to know. 
-
 I chose the visualization with the photos because it succintly presents the information I want the reader to know without presenting any additonal extraneous information. Most readers eye is drawn to pictures and faces. This visualization would grab the readers attention and tell them what I want them to know. 
 
-![People Age 55 and Over Account for Over Half of Total U.S. Medical Spend](https://csaborio412.github.io/Saborio-Villalta_94870_StudentPortfolio/Images/AgeMedicalSpend_Graphic.png)
+![People Age 55 and Over Account for Over Half of Total U.S. Medical Spend](https://csaborio412.github.io/Saborio-Villalta_94870_StudentPortfolio/Images/AgeMedicalSpend_Graphic_Final.png)
 
 
