@@ -80,4 +80,45 @@ I chose the visualization with the photos because it succintly presents the info
 
 ![People Age 55 and Over Account for Over Half of Total U.S. Medical Spend](https://csaborio412.github.io/Saborio-Villalta_94870_StudentPortfolio/Images/AgeMedicalSpend_Graphic_Final.png)
 
+###Final Project
+
+####Part I 
+
+Project Proposal
+
+CityBlock Health is a startup within Google’s smart city division called Sidewalk Labs. CityBlock Health focuses on the Medicaid and low-income Medicare populations, mostly low-income seniors and adults with disabilities. CityBlock is creating in-person health hubs that are in or close to areas with high concentrations of Medicaid and low-income Medicare patients. The goal of the startup is to ensure these high-risk, high needs patients do not fall off the grid and to prevent chronic and acute conditions turning into costly hospitalizations and ER visits. Once they have gathered a critical mass of patient data they intend to use artificial intelligence and machine learning to triage patients based on risk to intervene at appropriate times in either a semi-automated or automated fashion. 
+
+The goal of the proposal is for CityBlock Health to secure a contract with UPMC Health Plan. This contract if accepted as proposed would create 4 pilot neighborhood health hubs in the city of Pittsburgh following the CityBlock model. The secondary goal is to register the selected member’s clinical and non-clinical healthcare providers on to City Block’s Commons platform. It would be ideal to also connect to the City’s housing and social services departments to have a workflow that address ‘social determinants of health’ all on one platform.  
+
+Sketches
+
+!(https://csaborio412.github.io/Saborio-Villalta_94870_StudentPortfolio/Images/Part I_ DV Final Presentation.png)
+
+Data 
+
+Members in Allegheny County with Congestive Obstructive Pulmonary Disease. UPMC Community HealthChoices Health Plan, October 2019.
+Neighborhoods with SNAP Data. Western Pennsylvania Regional Data Center, https://data.wprdc.org/dataset/city-of-pittsburgh-gis-data.
+TIGER/Line Shapefiles: Census Tracts. U.S. Census Bureau, 2019, https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2019&layergroup=Census Tracts.
+UPMC CHC Cost Containment Initial Analysis. UPMC Community HealthChoices Health Plan, July 2019.
+
+Medium & Methods 
+
+UPMC Community HealthChoices Health Plan Patient Data: 
+
+Analysis of Costliest Chronic and Acute Conditions for Medicaid Conditions
+Our data analytics teams did an analysis in July 2019 identifying the costliest chronic and acute conditions across our 76,000 members to contain costs. The top chronic condition was acute exacerbated Congestive Obstructive Pulmonary Disorder. Meaning, that the member had COPD that was likely neglected.  
+
+Tally of COPD Members in Allegheny County
+I obtained a file with all the members who were diagnosed with COPD in Allegheny County with their Medicare ID and their zip code. Zip code is the smallest unit of measurement where members could be aggregated to without using their addresses to maintain patient privacy. There were approximately 2,975 members with COPD. There were 4 zip codes that had the highest number of COPD members, between 100 and 150 members. 
+
+It is ideal to use member addresses, but a health plan would not share this level of member data with an outside vendor in this way prior to contracting. 
+
+U.S. Census Tiger Zip Code Shapefile 
+In ArcGIS, I clipped the national zip code files using the City of Pittsburgh border to obtain the 38 zip codes within the City. 
+
+U.S. Census Tiger Census Block Shapefile with Socioeconomic Data
+I needed to be able to state in my proposal neighborhoods as my unit of analysis, because it is the most understandable unit geographically. Neighborhood communicates socioeconomic status. For example, Homewood and East Liberty are both in the same zip code, but they connote very different levels of socioeconomic status. So I obtained census tract socioeconomic data and assumed that the lower-income census tracts within the zip codes were where our members were located, because otherwise they would not be eligible for Medicaid. 
+
+City of Pittsburgh Neighborhood Shapefile with SNAP Data
+Because the SNAP program and Medicaid have similar income requirements I was able to determine which neighborhoods I should consider. The census tracts allowed me hone-in to where within these neighborhoods the members might be located. 
 
