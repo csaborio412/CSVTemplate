@@ -124,8 +124,6 @@ Because the SNAP program and Medicaid have similar income requirements I was abl
 
 #### Part II
 
-Part II
-
 Target Audience
 Executives at UPMC Health Plans that work in government products (Medicare/Medicaid) 
 
