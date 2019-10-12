@@ -92,7 +92,7 @@ The goal of the proposal is for CityBlock Health to secure a contract with UPMC 
 
 Sketches
 
-!(https://csaborio412.github.io/Saborio-Villalta_94870_StudentPortfolio/Images/Part I_ DV Final Presentation.png)
+![Sketch](https://csaborio412.github.io/Saborio-Villalta_94870_StudentPortfolio/Images/Part%20I_%20DV%20Final%20Presentation%20.png)
 
 Data 
 
@@ -122,3 +122,42 @@ I needed to be able to state in my proposal neighborhoods as my unit of analysis
 City of Pittsburgh Neighborhood Shapefile with SNAP Data
 Because the SNAP program and Medicaid have similar income requirements I was able to determine which neighborhoods I should consider. The census tracts allowed me hone-in to where within these neighborhoods the members might be located. 
 
+#### Part II
+
+Part II
+
+Target Audience
+Executives at UPMC Health Plans that work in government products (Medicare/Medicaid) 
+
+Interview Approach 
+CMU Global Communications Center tutors (2) 
+Classmates (2) 
+Friends (1) 
+
+Interview Script
+What were your takeaways from the presentation?
+Do you feel you had enough context to understand the presentation? 
+What do you feel worked? 
+What do you feel did not work? 
+How did the pace of the presentation work for you? 
+What was the most compelling part of the presentation? 
+
+Findings
+
+My biggest challenge was to provide enough context to the interviewees that they would understand what the platform was and condense that information into 60 seconds. 
+
+In the real-world, the executives I would be presenting to would have 5 or more years in the health insurance industry within government products. They would have enough context to understand why and for who CityBlock Health designed their business model.   
+The first draft I presented to the GCC tutor was way too long. We spent most of the time figuring out what to remove to fall within the required time. She suggested crafting the presentation around a real member’s story. 
+
+The second draft I presented to the second GCC tutor we widdled the presentation down to two points: the CityBlock Health Commons technology platform and how it solved many of the privacy issues; and the neighborhood hubs. While interesting, I ended up scrapping the member story approach due to time. This tutor suggested I consider going directly to talking about pilot program and the map and why we were choosing these areas for a pilot. I practiced and was able to widdle it down to 3 minutes of context and 1 minute for the presentation. I struggled to speak at a conversational pace and take pauses to emphasize the compelling points within that time-frame.   
+My classmates did not understand the framework of how this type of government product works. The statistic that stood out to them was that this population was the most expensive and at-risk in the entire healthcare system. And that it was why this business model had been created. 
+
+My friend who I presented the project proposal to said it was a boring topic. That my audience in the class would probably have a difficult time finding it interesting. That it seemed technical and detached from most people’s lives. We tried a few options to make it compelling, but it was really challenging. 
+
+All the people interviewed agreed that proposing a pilot project that aligned with the pain points of the health plan was the most compelling part of the presentation. It made is seem like we sought a partnership and not simply making a sales pitch to close a deal. 
+
+![Wirefram #1](https://csaborio412.github.io/Saborio-Villalta_94870_StudentPortfolio/Images/WireFrame1.jpg)
+![Wirefram #2](https://csaborio412.github.io/Saborio-Villalta_94870_StudentPortfolio//Images/Diagram2.jpg)
+![Wirefram #3](https://csaborio412.github.io/Saborio-Villalta_94870_StudentPortfolio/Images/Diagram1.jpg)
+![Wirefram #4](https://csaborio412.github.io/Saborio-Villalta_94870_StudentPortfolio/Images/Chart.jpg)
+![Heat Map](https://csaborio412.github.io/Saborio-Villalta_94870_StudentPortfolio/Images/Pittsburgh_HeatMap.png)
