@@ -97,8 +97,11 @@ Sketches
 Data 
 
 Members in Allegheny County with Congestive Obstructive Pulmonary Disease. UPMC Community HealthChoices Health Plan, October 2019.
+
 Neighborhoods with SNAP Data. Western Pennsylvania Regional Data Center, https://data.wprdc.org/dataset/city-of-pittsburgh-gis-data.
+
 TIGER/Line Shapefiles: Census Tracts. U.S. Census Bureau, 2019, https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2019&layergroup=Census Tracts.
+
 UPMC CHC Cost Containment Initial Analysis. UPMC Community HealthChoices Health Plan, July 2019.
 
 Medium & Methods 
