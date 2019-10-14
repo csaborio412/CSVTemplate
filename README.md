@@ -162,3 +162,11 @@ All the people interviewed agreed that proposing a pilot project that aligned wi
 ![Wirefram #3](https://csaborio412.github.io/Saborio-Villalta_94870_StudentPortfolio/Images/Diagram1.jpg)
 ![Wirefram #4](https://csaborio412.github.io/Saborio-Villalta_94870_StudentPortfolio/Images/Chart.jpg)
 ![Heat Map](https://csaborio412.github.io/Saborio-Villalta_94870_StudentPortfolio/Images/Pittsburgh_HeatMap.png)
+
+Takeaways
+
+The presentation that CityBlock Health originally presented to the health plan was filled with fluff and left the audience wondering what they did and what the ask was of them. It was a regurgitation of statistics and health care buzz words. 
+
+My goal in this project was to simplify the ask of the health plan executives to something that was direct, compelling, and actionable. This ended up being the map with the proposal of pilot neighborhood health hubs. Direct in that I removed extraneous materials that detracted from the proposal. We could discuss our services and value proposition in the context of what we could do for them. Compelling in the sense that we were providing a service that addresses a pain point for the health plan, in this case members with COPD that needed to be monitored and care for regularly; which the platform was equipped to do. Actionable in that it was specific enough for them to be able to play off what had been presented to either accept the proposal or provide feedback on the approach to where we could move forward on something. 
+
+For the 60-second presentation, I made the mistake of not going directly to the proposal as I originally intended. I would have been better off explaining the platform and our services in-depth from this visual. So if I ever have to present in the future, I will feel confident in relying on a visualization I know has the power of grounding a proposal without having to rely on extraneous information because if feels too short. 
